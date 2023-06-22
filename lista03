@@ -1,4 +1,5 @@
 #EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 #EXTINF:-1 tvg-id="BR - A&E" tvg-name="A&E FHD" tvg-logo="http://p6.vc/APQ" group-title="Canais | Filmes e Séries",A&E FHD
 http://pfsv.io:80/Silviopaz/pandora/293.m3u8
 #EXTINF:-1 tvg-id="BR - A&E" tvg-name="A&E FHD [H265]" tvg-logo="http://p6.vc/WHI" group-title="Canais | Filmes e Séries",A&E FHD [H265]
